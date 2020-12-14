@@ -1,0 +1,18 @@
+body {
+    background-color: green;
+}
+
+h2 {
+    color:white;
+    padding-bottom: 30px;
+    padding-top:20px;
+}
+
+button {
+ color:red;
+}
+
+.quoteRecommend {
+ color:white;
+ padding-top: 30px;
+}
